@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#000"/>
+  <path d="M512 800 C512 800 262 580 262 392 A250 250 0 0 1 762 392 C762 580 512 800 512 800 Z" fill="#40ff5e"/>
+  <path d="M455 292 L455 492 L632 392 Z" fill="#000" stroke="#000" stroke-width="28" stroke-linejoin="round"/>
+  <!-- the pin's "shadow" as a wide lens/screen arc under it -->
+  <path d="M232 880 Q512 790 792 880" fill="none" stroke="#40ff5e" stroke-width="40" stroke-linecap="round"/>
+</svg>

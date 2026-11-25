@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#000"/>
+  <!-- ticket with semicircle notches left and right -->
+  <path d="M170 300 H854 V430 A82 82 0 0 0 854 594 V724 H170 V594 A82 82 0 0 0 170 430 Z"
+        fill="none" stroke="#40ff5e" stroke-width="54" stroke-linejoin="round"/>
+  <!-- perforation -->
+  <path d="M640 330 V694" stroke="#40ff5e" stroke-width="30" stroke-dasharray="40 34" stroke-linecap="round"/>
+  <!-- pin on the left part -->
+  <path d="M400 640 C400 640 288 540 288 470 A112 112 0 0 1 512 470 C512 540 400 640 400 640 Z"
+        fill="none" stroke="#40ff5e" stroke-width="40" stroke-linejoin="round"/>
+  <circle cx="400" cy="470" r="30" fill="#40ff5e"/>
+</svg>

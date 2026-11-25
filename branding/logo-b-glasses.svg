@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#000"/>
+  <!-- smart glasses: two lenses, bridge, short arms -->
+  <rect x="120" y="360" width="330" height="270" rx="110" fill="none" stroke="#40ff5e" stroke-width="54"/>
+  <rect x="574" y="360" width="330" height="270" rx="110" fill="none" stroke="#40ff5e" stroke-width="54"/>
+  <path d="M450 470 C490 430 534 430 574 470" fill="none" stroke="#40ff5e" stroke-width="54" stroke-linecap="round"/>
+  <path d="M120 440 L70 400 M904 440 L954 400" fill="none" stroke="#40ff5e" stroke-width="54" stroke-linecap="round"/>
+  <!-- the display shows a play button, only in one lens -->
+  <path d="M705 440 L705 550 L795 495 Z" fill="#40ff5e" stroke="#40ff5e" stroke-width="22" stroke-linejoin="round"/>
+</svg>

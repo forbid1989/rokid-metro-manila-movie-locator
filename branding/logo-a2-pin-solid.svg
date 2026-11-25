@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#000"/>
+  <!-- solid pin with the play button knocked out -->
+  <path d="M512 896 C512 896 240 650 240 430 A272 272 0 0 1 784 430 C784 650 512 896 512 896 Z" fill="#40ff5e"/>
+  <path d="M450 322 L450 538 L642 430 Z" fill="#000" stroke="#000" stroke-width="30" stroke-linejoin="round"/>
+</svg>

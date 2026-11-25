@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <rect width="1024" height="1024" fill="#000"/>
+  <!-- location pin -->
+  <path d="M512 884 C512 884 258 652 258 440 A254 254 0 0 1 766 440 C766 652 512 884 512 884 Z"
+        fill="none" stroke="#40ff5e" stroke-width="58" stroke-linejoin="round"/>
+  <!-- play triangle: the movie -->
+  <path d="M452 340 L452 540 L630 440 Z" fill="#40ff5e" stroke="#40ff5e" stroke-width="28" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,25 @@
+# Keep development-only files out of the packaged agent (.aix).
+# Same syntax as .gitignore.
+
+# Node-based test suites (run with `npm test`); not part of the agent
+tests/
+
+# Dev-only tooling (CORS proxy for `aix preview`)
+tools/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Local git config
+.gitignore
+
+# Logo and design files (the icon is uploaded in AIUI Studio)
+branding/
+
+# Packaged output must never be packed into the next package
+*.aix
+
+# Repository documentation, not part of the agent
+README.md
+docs/

@@ -1,0 +1,12 @@
+{
+  "name": "movie-locator",
+  "version": "0.5.0",
+  "description": "Rokid glasses agent: find which Metro Manila cinemas are showing a movie, and when.",
+  "main": "app.js",
+  "dependencies": {},
+  "scripts": {
+    "dev:proxy": "node tools/dev-proxy.mjs",
+    "preview": "aix preview . --dev --launch",
+    "test": "node --no-warnings --test \"tests/suites/*.test.mjs\""
+  }
+}

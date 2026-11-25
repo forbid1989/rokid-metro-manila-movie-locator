@@ -1,0 +1,1 @@
+{"name":"movie-locator","pages":["pages/movies/movies","pages/results/results","pages/choose/choose","pages/theaters/theaters","pages/theater/theater","pages/ask/ask","pages/diagnostics/diagnostics"],"permissions":["INTERNET","GEOLOCATION","RECORD_AUDIO"]}
