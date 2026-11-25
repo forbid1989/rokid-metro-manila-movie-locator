@@ -130,3 +130,7 @@ node --no-warnings tools/evalIntents.mjs
 ## How it was built
 
 I built this with AI assistance (Claude Code). I set the requirements, chose how the app should behave, tested it on the glasses and reported the problems that shaped the later fixes.
+
+## License
+
+The code is released under the [MIT License](LICENSE). The license does not cover third-party material, including the recorded ClickTheCity responses in `tests/fixtures/`, or any third-party names and trademarks.
